@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Colour Game</title>
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="colourGame.css">
+	
+</head>
+<body>
+	<div class="container text-center">
+		<div class="header mt-4">
+			<div>
+				<h1><span id="first">Colour</span> <span id="second">Guessing</span> <span id="third">Game</span></h1>
+			</div>
+			<div id="info">
+				Choose the correct colour. The game will increase in difficulty every 3 correct guesses!
+			</div>
+			<div>
+				<h2 id="colourDisplay">RGB</h2>
+			</div>
+		</div>
+
+		<div id ="stripe">
+			<button class="btn btn-primary" id="reset">New Game</button>
+			<span id="message"></span>
+		</div>
+
+	<div class="board mt-3">
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src=colourGame.js></script>
+</body>
+</html>
