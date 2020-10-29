@@ -19,4 +19,7 @@
 * JavaScript
 * Bootstrap
 
+<hr>
 <a href="https://pinderbal.github.io/rgb-game/">Click here to play</a>
+<br>
+<a href="https://pinderbal.ca/">My Portfolio</a>
