@@ -13,8 +13,7 @@
 * Click new colours to start a new game.
 * Game becomes more challenging every 3 consecutive correct guesses by adding more options.
 
-## How To Play
-Coded Using
+## Coded Using
 * Html
 * CSS
 * JavaScript
