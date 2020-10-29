@@ -1,13 +1,9 @@
-
 <h1 align="center">
-  <br>
-    ![screenshot](game-demo.gif?raw=true)
-  <br>
     Colour Guessing Game
-  <br>
 </h1>
-
 <h4 align="center">A challenging yet simple game where you guess the colour.</h4>
+
+![screenshot](game-demo.gif?raw=true)
 
 ## How To Play
 
