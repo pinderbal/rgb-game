@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-    https://github.com/pinderbal/rgb-game/blob/gh-pages/game-demo.gif?raw=true
+    ![screenshot](game-demo.gif?raw=true)
   <br>
     Colour Guessing Game
   <br>
