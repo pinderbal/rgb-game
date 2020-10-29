@@ -4,7 +4,7 @@
 </h1>
 
 
-![screenshot](game-demo.gif?raw=true)
+<a href="https://pinderbal.github.io/rgb-game/">![screenshot](game-demo.gif?raw=true)</a>
 
 ## How To Play
 
@@ -18,3 +18,5 @@
 * CSS
 * JavaScript
 * Bootstrap
+
+<a href="https://pinderbal.github.io/rgb-game/">Click here to play</a>
